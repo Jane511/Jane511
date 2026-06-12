@@ -18,7 +18,7 @@ Based in Sydney · English / Mandarin · *Open to credit-risk and quantitative-m
 
 | Project | What it demonstrates |
 | --- | --- |
-| **Mortgage credit-risk suite** (Freddie Mac) — *link once pushed* | PD (logistic, AUC 0.81), **real LGD** from actual loss data (reconciled to the vendor's own loss field at 0.99), EAD, expected loss, **stress testing** (~10× downturn), a scorecard master scale, and **out-of-time / out-of-regime validation** |
+| **Mortgage credit-risk suite** (Freddie Mac) — [mortgage-credit-risk-pd-lgd-ead(https://github.com/Jane511/mortgage-credit-risk-pd-lgd-ead)] | PD (logistic, AUC 0.81), **real LGD** from actual loss data (reconciled to the vendor's own loss field at 0.99), EAD, expected loss, **stress testing** (~10× downturn), a scorecard master scale, and **out-of-time / out-of-regime validation** |
 | [consumer-credit-pd-ead-scorecard](https://github.com/Jane511/consumer-credit-pd-ead-scorecard) | PD scorecard (logistic regression + WOE/IV) with full **validation, monitoring, and governance**; EAD analysed and reframed as a documented data-quality finding |
 | [external-benchmark](https://github.com/Jane511/external-benchmark) | A reproducible engine turning Australian bank & regulator disclosures (Pillar 3, APRA, RBA) into traceable PD / LGD / ECL / **stress** model inputs — with governance, an audit trail, and a 595-test suite |
 | [industry-analysis](https://github.com/Jane511/industry-analysis) | Turns public ABS / RBA / PTRS data into industry risk scores, **downturn / stress overlays**, and macro-regime flags for commercial credit |
