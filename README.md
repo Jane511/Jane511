@@ -30,4 +30,6 @@ Based in Sydney · English / Mandarin · *Open to credit-risk and quantitative-m
 
 - **CPA**-qualified · **Master of Accounting and Applied Finance**, University of Sydney
 - ~4 years as a commercial credit analyst at a Sydney private credit lender (~A$50M SME and property-backed book)
+- Earlier: built and deployed **logistic-regression and machine-learning models in production** as a data analyst — demand forecasting, customer targeting, and reporting automation
+- **Google Data Analytics Professional Certificate** · AML & KYC Fundamentals (AUSTRAC)
 - Bilingual: English and Mandarin (including reading)
