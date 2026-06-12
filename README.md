@@ -22,8 +22,8 @@ Based in Sydney · English / Mandarin · *Open to credit-risk and quantitative-m
 | [consumer-credit-pd-ead-scorecard](https://github.com/Jane511/consumer-credit-pd-ead-scorecard) | PD scorecard (logistic regression + WOE/IV) with full **validation, monitoring, and governance**; EAD analysed and reframed as a documented data-quality finding |
 | [external-benchmark](https://github.com/Jane511/external-benchmark) | A reproducible engine turning Australian bank & regulator disclosures (Pillar 3, APRA, RBA) into traceable PD / LGD / ECL / **stress** model inputs — with governance, an audit trail, and a 595-test suite |
 | [industry-analysis](https://github.com/Jane511/industry-analysis) | Turns public ABS / RBA / PTRS data into industry risk scores, **downturn / stress overlays**, and macro-regime flags for commercial credit |
-| **Portfolio monitoring** (loan-level) — *link once pushed* | Transition / migration matrices, roll rates, **IFRS 9 stage movements**, an early-warning watchlist, and vintage tracking on real loan-level data |
-
+| [mortgage-portfolio-monitoring](https://github.com/Jane511/mortgage-portfolio-monitoring) | Loan-level mortgage monitoring on Freddie Mac data: **delinquency transition / migration matrices**, roll rates, **IFRS 9 stage movements**, an early-warning watchlist, and vintage tracking |
+| [commercial-portfolio-monitoring](https://github.com/Jane511/commercial-portfolio-monitoring) | Commercial-loan monitoring on real SBA 7(a) data: **industry & state concentration** (HHI, top-N), **charge-off rates**, vintage cohort curves, loan-age transitions, and early-warning flags |
 *Together these form one stack: macro & industry overlays + external benchmarks → PD / LGD / EAD modelling → portfolio monitoring → validation.*
 
 ## Background
