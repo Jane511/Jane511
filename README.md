@@ -2,9 +2,11 @@
 
 **Credit Risk Analyst — PD / LGD / EAD modelling · IFRS 9 / AASB 9 · stress testing · model validation**
 
+📍 Sydney · LinkedIn: <ADD-LINKEDIN-URL> · Email: <ADD-IF-YOU-WANT> · Open to credit-risk and quantitative-modelling roles
+
 CPA-qualified credit risk analyst with ~4 years across the full credit lifecycle at a private credit lender. I build institutional-grade credit-risk analytics — from PD/LGD/EAD models and IFRS 9 expected credit loss through stress testing, model validation, and portfolio monitoring — on real loan-level and Australian regulatory data.
 
-Based in Sydney · English / Mandarin · *Open to credit-risk and quantitative-modelling roles*
+English / Mandarin (including reading)
 
 ## What I work on
 
